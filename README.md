@@ -65,3 +65,4 @@ This will open the GUI of the application where you can:
 
 ## License:
 This project is licensed under the MIT License 
+© 2025 Kunal Kalunke. All rights reserved.
